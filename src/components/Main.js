@@ -13,9 +13,9 @@ const Main = () => {
         getimages();
     },[])
     return (
-        <>
+        <div className='images'>
             Loading...
-        </>
+        </div>
     )
 }
 
